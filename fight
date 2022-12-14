@@ -1,0 +1,4 @@
+if "fight":
+    print("(ง'̀-'́)ง")
+else:
+    print("(ᗒᗩᗕ)")
